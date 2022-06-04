@@ -1,0 +1,173 @@
+#EXTM3U
+#EXTINF:0 tvg-id="Canal24Horas.es" group-title="Channels",24 HORAS
+http://168.90.221.3:8000/play/a017/index.m3u8
+#EXTINF:0 tvg-id="70sHits.us" group-title="Channels",70s Hits
+http://168.90.221.3:8000/play/a02n/index.m3u8
+#EXTINF:0 tvg-id="80sHits.us" group-title="Channels",80s Hits
+http://168.90.221.3:8000/play/a02o/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",AE Mundo
+http://168.90.221.3:8000/play/a01o/index.m3u8
+#EXTINF:0 tvg-id="AXN.ar" group-title="Channels",AXN
+http://168.90.221.3:8000/play/a027/index.m3u8
+#EXTINF:0 tvg-id="AnimalPlanet.ar" group-title="Channels",Animal Planet
+http://168.90.221.3:8000/play/a01f/index.m3u8
+#EXTINF:0 tvg-id="Babyfirstenglish.hu" group-title="Channels",BabyFirst
+http://168.90.221.3:8000/play/a00q/index.m3u8
+#EXTINF:0 tvg-id="Canal13.ar" group-title="Channels",CANAL 13
+http://168.90.221.3:8000/play/a00z/index.m3u8
+#EXTINF:0 tvg-id="Chilevision.cl" group-title="Channels",CHV
+http://168.90.221.3:8000/play/a00y/index.m3u8
+#EXTINF:0 tvg-id="Chilevision.cl" group-title="Channels",CHV HD
+http://168.90.221.3:8000/play/a02i/index.m3u8
+#EXTINF:0 tvg-id="CNNChile.cl" group-title="Channels",CNN Chile
+http://168.90.221.3:8000/play/a00j/index.m3u8
+#EXTINF:0 tvg-id="CNNEspanol.cl" group-title="Channels",CNN Espanol
+http://168.90.221.3:8000/play/a00u/index.m3u8
+#EXTINF:0 tvg-id="Azteca13.mx" group-title="Channels",Canal 13 HD
+http://168.90.221.3:8000/play/a02h/index.m3u8
+#EXTINF:0 tvg-id="CanalEstrellas.sp" group-title="Channels",Canal Estrellas
+http://168.90.221.3:8000/play/a01s/index.m3u8
+#EXTINF:0 tvg-id="CartoonNetwork.ar" group-title="Channels",Cartoon Network
+http://168.90.221.3:8000/play/a00m/index.m3u8
+#EXTINF:0 tvg-id="CinecanalEste.ar" group-title="Channels",Cinecanal
+http://168.90.221.3:8000/play/a00e/index.m3u8
+#EXTINF:0 tvg-id="Cinemax.ar" group-title="Channels",Cinemax
+http://168.90.221.3:8000/play/a025/index.m3u8
+#EXTINF:0 tvg-id="ClassicRock.us" group-title="Channels",Classic Rock
+http://168.90.221.3:8000/play/a02m/index.m3u8
+#EXTINF:0 tvg-id="DiscoveryChannel.ar" group-title="Channels",Discovery Channel
+http://168.90.221.3:8000/play/a01e/index.m3u8
+#EXTINF:0 tvg-id="DiscoveryChannel.ar" group-title="Channels",Discovery Channel
+http://168.90.221.3:8000/play/a02s/index.m3u8
+#EXTINF:0 tvg-id="Investigation.uk" group-title="Channels",Discovery ID
+http://168.90.221.3:8000/play/a01x/index.m3u8
+#EXTINF:0 tvg-id="DiscoveryKids.ar" group-title="Channels",Discovery Kids
+http://168.90.221.3:8000/play/a00t/index.m3u8
+#EXTINF:0 tvg-id="DiscoveryTurbo.ar" group-title="Channels",Discovery Turbo
+http://168.90.221.3:8000/play/a02b/index.m3u8
+#EXTINF:0 tvg-id="DisneyChannel.ar" group-title="Channels",Disney Channel
+http://168.90.221.3:8000/play/a01d/index.m3u8
+#EXTINF:0 tvg-id="DisneyJr.ar" group-title="Channels",Disney Jr
+http://168.90.221.3:8000/play/a016/index.m3u8
+#EXTINF:0 tvg-id="E.mx" group-title="Channels",E Entertainment
+http://168.90.221.3:8000/play/a01h/index.m3u8
+#EXTINF:0 tvg-id="ESPN.ar" group-title="Channels",ESPN
+http://168.90.221.3:8000/play/a01k/index.m3u8
+#EXTINF:0 tvg-id="ESPN2.ar" group-title="Channels",ESPN 2
+http://168.90.221.3:8000/play/a019/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 2 Latin
+http://168.90.221.3:8000/play/a01j/index.m3u8
+#EXTINF:0 tvg-id="ESPN3SD.ar" group-title="Channels",ESPN 3
+http://168.90.221.3:8000/play/a02d/index.m3u8
+#EXTINF:0 tvg-id="ESPN4.nl" group-title="Channels",ESPN 4
+http://168.90.221.3:8000/play/a01i/index.m3u8
+#EXTINF:0 tvg-id="Enlace.us" group-title="Channels",Enlace
+http://168.90.221.3:8000/play/a00o/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Esne TV
+http://168.90.221.3:8000/play/a02c/index.m3u8
+#EXTINF:0 tvg-id="FX.ar" group-title="Channels",FX
+http://168.90.221.3:8000/play/a029/index.m3u8
+#EXTINF:0 tvg-id="FOXSports1.us" group-title="Channels",Fox Sports 1
+http://168.90.221.3:8000/play/a011/index.m3u8
+#EXTINF:0 tvg-id="FoxSports2.ar" group-title="Channels",Fox Sports 2
+http://168.90.221.3:8000/play/a01t/index.m3u8
+#EXTINF:0 tvg-id="FoxSports3.ar" group-title="Channels",Fox Sports 3
+http://168.90.221.3:8000/play/a01u/index.m3u8
+#EXTINF:0 tvg-id="France24.ar" group-title="Channels",France 24
+http://168.90.221.3:8000/play/a01y/index.m3u8
+#EXTINF:0 tvg-id="HBO.bg" group-title="Channels",HBO
+http://168.90.221.3:8000/play/a024/index.m3u8
+#EXTINF:0 tvg-id="HBO2.ar" group-title="Channels",HBO 2
+http://168.90.221.3:8000/play/a012/index.m3u8
+#EXTINF:0 tvg-id="Hbofamily.br" group-title="Channels",HBO Family
+http://168.90.221.3:8000/play/a015/index.m3u8
+#EXTINF:0 tvg-id="Hboplus.br" group-title="Channels",HBO Plus
+http://168.90.221.3:8000/play/a013/index.m3u8
+#EXTINF:0 tvg-id="Maxprime.br" group-title="Channels",HBO XTREME SD
+http://168.90.221.3:8000/play/a014/index.m3u8
+#EXTINF:0 tvg-id="TheHistoryChannel.ar" group-title="Channels",History Channel
+http://168.90.221.3:8000/play/a00d/index.m3u8
+#EXTINF:0 tvg-id="HomeHealth.mx" group-title="Channels",HomeandHealth
+http://168.90.221.3:8000/play/a021/index.m3u8
+#EXTINF:0 tvg-id="ISat.ar" group-title="Channels",I-Sat
+http://168.90.221.3:8000/play/a00g/index.m3u8
+#EXTINF:0 tvg-id="Lared.cl" group-title="Channels",La Red
+http://168.90.221.3:8000/play/a00v/index.m3u8
+#EXTINF:0 tvg-id="Lifetime.ar" group-title="Channels",Lifetime
+http://168.90.221.3:8000/play/a00r/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Love Music
+http://168.90.221.3:8000/play/a02l/index.m3u8
+#EXTINF:0 tvg-id="stb" group-title="Channels",MEGA HD
+http://168.90.221.3:8000/play/a03m/index.m3u8
+#EXTINF:0 tvg-id="MTV.ar" group-title="Channels",MTV
+http://168.90.221.3:8000/play/a00h/index.m3u8
+#EXTINF:0 tvg-id="mega" group-title="Channels",Mega
+http://168.90.221.3:8000/play/a00x/index.m3u8
+#EXTINF:0 tvg-id="NTV.uk" group-title="Channels",NTV
+http://168.90.221.3:8000/play/a02v/index.m3u8
+#EXTINF:0 tvg-id="NationalGeographic.uk" group-title="Channels",Nat Geo
+http://168.90.221.3:8000/play/a00c/index.m3u8
+#EXTINF:0 tvg-id="NewAge.us" group-title="Channels",New Age
+http://168.90.221.3:8000/play/a02k/index.m3u8
+#EXTINF:0 tvg-id="NickJunior.uk" group-title="Channels",Nick Jr
+http://168.90.221.3:8000/play/a02a/index.m3u8
+#EXTINF:0 tvg-id="Nickelodeon.ar" group-title="Channels",Nickelodeon
+http://168.90.221.3:8000/play/a00b/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",PirataTV
+http://168.90.221.3:8000/play/a03p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RCN Novelas
+http://168.90.221.3:8000/play/a01w/index.m3u8
+#EXTINF:0 tvg-id="Reggae.us" group-title="Channels",Reggae
+http://168.90.221.3:8000/play/a02p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Reggaeton
+http://168.90.221.3:8000/play/a02q/index.m3u8
+#EXTINF:0 tvg-id="RegionalMexican.us" group-title="Channels",Regional Mexican
+http://168.90.221.3:8000/play/a02x/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Rock Latino
+http://168.90.221.3:8000/play/a02r/index.m3u8
+#EXTINF:0 tvg-id="otr" group-title="Channels",STAR CHANNEL
+http://168.90.221.3:8000/play/a00k/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sin Limites
+http://168.90.221.3:8000/play/a023/index.m3u8
+#EXTINF:0 tvg-id="Sony.ar" group-title="Channels",Sony
+http://168.90.221.3:8000/play/a026/index.m3u8
+#EXTINF:0 tvg-id="Space.ar" group-title="Channels",Space
+http://168.90.221.3:8000/play/a028/index.m3u8
+#EXTINF:0 tvg-id="StudioUniversal.ar" group-title="Channels",Studio Universal
+http://168.90.221.3:8000/play/a018/index.m3u8
+#EXTINF:0 tvg-id="Syfy.ar" group-title="Channels",SyFy
+http://168.90.221.3:8000/play/a00s/index.m3u8
+#EXTINF:0 tvg-id="Symphonic.us" group-title="Channels",Symphonic
+http://168.90.221.3:8000/play/a02j/index.m3u8
+#EXTINF:0 tvg-id="TBS.ar" group-title="Channels",TBS
+http://168.90.221.3:8000/play/a01z/index.m3u8
+#EXTINF:0 tvg-id="TCM.ar" group-title="Channels",TCM
+http://168.90.221.3:8000/play/a00l/index.m3u8
+#EXTINF:0 tvg-id="TravelLivingChannel.ar" group-title="Channels",TLC
+http://168.90.221.3:8000/play/a01q/index.m3u8
+#EXTINF:0 tvg-id="TNT.ar" group-title="Channels",TNT
+http://168.90.221.3:8000/play/a00n/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TNT SPORTS 2
+http://168.90.221.3:8000/play/a010/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TNT SPORTS 3
+http://168.90.221.3:8000/play/a01n/index.m3u8
+#EXTINF:0 tvg-id="Tvcamara.br" group-title="Channels",TV CAMARA
+http://168.90.221.3:8000/play/a03l/index.m3u8
+#EXTINF:0 tvg-id="TVE.se" group-title="Channels",TVE
+http://168.90.221.3:8000/play/a00p/index.m3u8
+#EXTINF:0 tvg-id="TVN.pl" group-title="Channels",TVN
+http://168.90.221.3:8000/play/a00w/index.m3u8
+#EXTINF:0 tvg-id="TVN.pl" group-title="Channels",TVN HD
+http://168.90.221.3:8000/play/a03n/index.m3u8
+#EXTINF:0 tvg-id="Telemundo.mx" group-title="Channels",Telemundo
+http://168.90.221.3:8000/play/a01v/index.m3u8
+#EXTINF:0 tvg-id="Universal.uk" group-title="Channels",Universal
+http://168.90.221.3:8000/play/a00f/index.m3u8
+#EXTINF:0 tvg-id="Venus.ar" group-title="Channels",Venus
+http://168.90.221.3:8000/play/a03o/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ViaX
+http://168.90.221.3:8000/play/a01r/index.m3u8
+#EXTINF:0 tvg-id="Warnerchannel.br" group-title="Channels",Warner
+http://168.90.221.3:8000/play/a01g/index.m3u8
+#EXTINF:0 tvg-id="ZonaLatina.cl" group-title="Channels",Zona Latina
+http://168.90.221.3:8000/play/a00i/index.m3u8
